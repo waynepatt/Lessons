@@ -1,0 +1,20 @@
+body {
+	margin: 0;
+}
+
+html {
+	background-color: #ccc;
+	font-family: 'Helvetica neue', Arial, 'sans serif';
+	font-size: 10px;
+}
+
+.card {
+  width: 35em;
+  height: 22em;
+  margin: 5em auto;
+  background-color: red;
+  border: 0.2em solid black;
+  border-radius: 1.5em;
+}
+
+.card footer 
